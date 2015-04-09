@@ -1,0 +1,1 @@
+passwordusername::user { 'bob': }
